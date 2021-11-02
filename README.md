@@ -1,4 +1,4 @@
-# Parameters for eumelanin molecules
+# Parameters for DHI eumelanin
 
 - Parameters for DHI eumelanin from the paper<P></p>
   [*Free energy and stacking of eumelanin nanoaggregates*](https://doi.org/10.1101/2021.08.31.458381)<br>
