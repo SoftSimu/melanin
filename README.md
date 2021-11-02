@@ -1,2 +1,3 @@
-# Parameters for melanin molecules
+# Parameters for eumelanin molecules
 
+- DHI eumelanin
