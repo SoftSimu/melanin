@@ -1,1 +1,2 @@
-# melanin
+# Parameters for melanin molecules
+
