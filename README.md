@@ -8,3 +8,4 @@
   - [List of parameters](./dhi-eumelanin-parameters.md) (plain text). The coordinates (*x*, *y* and *z*) are given in nanometers. 
   - [Corresponding .itp file](./DHI-single.itp) (for Gromacs)
   - [Corresponding .gro file](./DHI-single.gro) (for Gromacs)
+  - [Figure showing the atom numbering](DHI-single.svg)
