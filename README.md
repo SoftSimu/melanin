@@ -5,4 +5,4 @@
   Sepideh Soltani, Shahin Sowlati-Hashjin, Conrard Giresse Tetsassi Feugmo and Mikko Karttunen. <br>
   Please see the paper for the details of the minimization process.
   
-  - [Parameters](./dhi-eumelanin-parameters.md)
+  - [List of parameters](./dhi-eumelanin-parameters.md) (plain text)
