@@ -5,4 +5,4 @@
   Sepideh Soltani, Shahin Sowlati-Hashjin, Conrard Giresse Tetsassi Feugmo and Mikko Karttunen. <P></p>
   Please see the paper for the details of the minimization process.
   
-  - [List of parameters](./dhi-eumelanin-parameters.md) (plain text)
+  - [List of parameters](./dhi-eumelanin-parameters.md) (plain text). The coordinates (*x*, *y* and *z*) are given in nanometers. 
