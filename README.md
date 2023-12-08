@@ -9,3 +9,10 @@
   - [Corresponding .itp file](./DHI-single.itp) (for Gromacs)
   - [Corresponding .gro file](./DHI-single.gro) (for Gromacs)
   - [Figure showing the atom numbering](DHI-single.svg)
+
+# Parameters for DHICA eumelanin
+
+  - [itp file for charged DHICA](./DHICA-charged.itp) (for Gromacs)
+     - [Corresponding .gro file](./DHICA-charged.gro) (for Gromacs)
+  - [itp file for charged DHICA](./DHICA-uncharged.itp) (for Gromacs)
+      - [Corresponding .gro file](./DHICA-uncharged.gro) (for Gromacs)
