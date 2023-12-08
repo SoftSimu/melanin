@@ -12,6 +12,12 @@
 
 # Parameters for DHICA eumelanin
 
+The article:
+
+*Structural Investigation of DHICA Eumelanin Using Density Functional Theory and Classical Molecular Dynamics Simulations*. Soltani, Sepideh; Sowlati-Hashjin, Shahin; Tetsassi Feugmo, Conrard Giresse; Karttunen, Mikko. Molecules 27, 8417 (2022).
+Web: https://doi.org/10.3390/molecules27238417.
+
+
   - [itp file for charged DHICA](./DHICA-charged.itp) (for Gromacs)
      - [Corresponding .gro file](./DHICA-charged.gro) (for Gromacs)
   - [itp file for charged DHICA](./DHICA-uncharged.itp) (for Gromacs)
