@@ -1,8 +1,8 @@
 # Parameters for DHI eumelanin
 
 - Parameters for DHI eumelanin from the paper<P></p>
-  [*Free energy and stacking of eumelanin nanoaggregates*](https://doi.org/10.1101/2021.08.31.458381)<br>
-  Sepideh Soltani, Shahin Sowlati-Hashjin, Conrard Giresse Tetsassi Feugmo and Mikko Karttunen. <P></p>
+*Free Energy and Stacking of Eumelanin Nanoaggregates*. Soltani, Sepideh; Sowlati-Hashjin, Shahin; Tetsassi Feugmo, Conrard Giresse; Karttunen, Mikko. J. Phys. Chem. B 126, 1805–1818, (2022). <br> Web: https://doi.org/10.1021/acs.jpcb.1c07884
+
   Please see the paper for the details of the minimization process.
   
   - [List of parameters](./dhi-eumelanin-parameters.md) (plain text). The coordinates (*x*, *y* and *z*) are given in nanometers. 
@@ -14,7 +14,7 @@
 
 The article:
 
-*Structural Investigation of DHICA Eumelanin Using Density Functional Theory and Classical Molecular Dynamics Simulations*. Soltani, Sepideh; Sowlati-Hashjin, Shahin; Tetsassi Feugmo, Conrard Giresse; Karttunen, Mikko. Molecules 27, 8417 (2022).
+*Structural Investigation of DHICA Eumelanin Using Density Functional Theory and Classical Molecular Dynamics Simulations*. Soltani, Sepideh; Sowlati-Hashjin, Shahin; Tetsassi Feugmo, Conrard Giresse; Karttunen, Mikko. Molecules 27, 8417 (2022).<br>
 Web: https://doi.org/10.3390/molecules27238417.
 
 
