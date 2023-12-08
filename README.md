@@ -22,3 +22,8 @@ Web: https://doi.org/10.3390/molecules27238417.
      - [Corresponding .gro file](./DHICA-charged.gro) (for Gromacs)
   - [itp file for charged DHICA](./DHICA-uncharged.itp) (for Gromacs)
       - [Corresponding .gro file](./DHICA-uncharged.gro) (for Gromacs)
+
+# Parameters for drug molecules studied with DHI and DHICA
+
+- Parameters from manuscript<p>
+A Computational Investigation on Eumelanin-Drug Binding in Aqueous Solution† Sepideh Soltani, Anupom Roy, Arto Urtti, and Mikko Karttunen
