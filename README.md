@@ -25,5 +25,5 @@ Web: https://doi.org/10.3390/molecules27238417.
 
 # Parameters for drug molecules studied with DHI and DHICA
 
-- Parameters from manuscript<p>
-A Computational Investigation on Eumelanin-Drug Binding in Aqueous Solution† Sepideh Soltani, Anupom Roy, Arto Urtti, and Mikko Karttunen
+- Parameters from the manuscript<p>
+A Computational Investigation of Eumelanin-Drug Binding in Aqueous Solutions, Sepideh Soltani, Anupom Roy, Arto Urtti, and Mikko Karttunen
