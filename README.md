@@ -34,4 +34,4 @@ A Computational Investigation of Eumelanin-Drug Binding in Aqueous Solutions, Se
 - LFX - Levofloxacin
 - TIM- Timolol
 - MTX - Methotrexate
-- DIC- Dicolfenac
+- DIC - Diclofenac
