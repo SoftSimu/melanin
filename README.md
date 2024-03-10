@@ -27,3 +27,11 @@ Web: https://doi.org/10.3390/molecules27238417.
 
 - Parameters from the manuscript<p>
 A Computational Investigation of Eumelanin-Drug Binding in Aqueous Solutions, Sepideh Soltani, Anupom Roy, Arto Urtti, and Mikko Karttunen
+
+**Abbrevations:**
+
+- OTX - Chloroquine
+- LFX - Levofloxacin
+- TIM- Timolol
+- MTX - Methotrexate
+- DIC- Dicolfenac
